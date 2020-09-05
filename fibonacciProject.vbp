@@ -1,10 +1,11 @@
 Type=Exe
 Form=..\Nova pasta\frmFibonacci.frm
 Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#..\..\..\..\Windows\SysWOW64\stdole2.tlb#OLE Automation
-IconForm="fibonacci"
-Startup="fibonacci"
+IconForm="frmFibonacci"
+Startup="frmFibonacci"
+ExeName32="fibonacci.exe"
 Command32=""
-Name="FibonacciProject"
+Name="Fibonacci"
 HelpContextID="0"
 CompatibleMode="0"
 MajorVer=1
